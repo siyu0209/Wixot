@@ -1,0 +1,24 @@
+# 构建与 IDE
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+Thumbs.db
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# 签名材料（切勿提交）
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# 注意：发布用的 *.apk 需要进仓库，故不在忽略列表中
