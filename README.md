@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/siyu0209/Wixot?include_prereleases&sort=semver&color=0b101a)](https://github.com/siyu0209/Wixot/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-0b101a)](LICENSE)
 [![Platform](https://img.shields.io/badge/Android-7.0%2B%20(API%2024)-0b101a?logo=android)](https://developer.android.com)
-[![Size](https://img.shields.io/badge/APK-2.51%20MB-0b101a)](#下载)
+[![Size](https://img.shields.io/badge/APK-2.5%20MB-0b101a)](#下载)
 
 > 把「多源聚合搜索」装进一个 HTML5 播放器。
 > 一个 2.5 MB 的 Android 客户端：内置本地 HTTP 服务 + Next.js 前端 + Apple CMS 采集源聚合 + HLS 反代，装完即用，不需要注册服务器、不需要外挂脚本。
@@ -14,7 +14,7 @@
 
 | 版本 | 文件 | 大小 | 最低系统 |
 | --- | --- | --- | --- |
-| **5.2.0** (versionCode 5) | [`Wixot-5.2.0.apk`](https://github.com/siyu0209/Wixot/releases/latest/download/Wixot-5.2.0.apk) | 2,636,830 字节（2.51 MB） | Android 7.0（API 24） |
+| **5.2.0** (versionCode 5) | [`Wixot-5.2.0.apk`](https://github.com/siyu0209/Wixot/releases/latest/download/Wixot-5.2.0.apk) | 2,636,830 字节（2.5 MB） | Android 7.0（API 24） |
 
 ```
 SHA-256  5bbbf7364670af6f06755326fff4037963ebba73b2640924fb4dcd8e08bbce46
